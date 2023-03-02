@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tpt4ePYT71dbHzo/A6hmSU3qjO+IGBXkGOMMTvMRyJFP/k/KvW2U1ssWuZZv6CmlX81R4OCFOEpHEhEj/b4S6g==",
+  "success": true,
+  "projectFilePath": "E:\\AllCode\\C#\\MusicPlayer\\MusicPlayer\\MusicPlayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eetu\\.nuget\\packages\\communitytoolkit.winui.ui.controls\\7.1.2\\communitytoolkit.winui.ui.controls.7.1.2.nupkg.sha512",
+    "C:\\Users\\Eetu\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Eetu\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Eetu\\.nuget\\packages\\naudio\\2.1.0\\naudio.2.1.0.nupkg.sha512",
+    "C:\\Users\\Eetu\\.nuget\\packages\\naudio.asio\\2.1.0\\naudio.asio.2.1.0.nupkg.sha512",
+    "C:\\Users\\Eetu\\.nuget\\packages\\naudio.core\\2.1.0\\naudio.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\Eetu\\.nuget\\packages\\naudio.midi\\2.1.0\\naudio.midi.2.1.0.nupkg.sha512",
+    "C:\\Users\\Eetu\\.nuget\\packages\\naudio.wasapi\\2.1.0\\naudio.wasapi.2.1.0.nupkg.sha512",
+    "C:\\Users\\Eetu\\.nuget\\packages\\naudio.winforms\\2.1.0\\naudio.winforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Eetu\\.nuget\\packages\\naudio.winmm\\2.1.0\\naudio.winmm.2.1.0.nupkg.sha512",
+    "C:\\Users\\Eetu\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Eetu\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\Eetu\\.nuget\\packages\\taglib-sharp-netstandard2.0\\2.1.0\\taglib-sharp-netstandard2.0.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
